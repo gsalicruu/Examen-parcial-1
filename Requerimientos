@@ -1,0 +1,6 @@
+Requerimientos:
+
+Instalar PyGame
+Instalar SQLAlchemy
+
+pip install pygame sqlalchemy
